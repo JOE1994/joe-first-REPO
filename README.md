@@ -6,3 +6,5 @@ joe-first-REPO
 oh yeah jeah
 
 nice to meet you
+
+I want to be a fantastic developer... I damn really do..
